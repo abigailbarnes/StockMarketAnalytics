@@ -1,4 +1,4 @@
 # StockMarketAnalytics
-Importing .csv files and constructing graph to analyze various stock's data over a specified time period
+AP Computer Science Project (2018): imported .csv files and constructed graph to analyze various stock's data over a specified time period
 
 Written in BlueJ using Java
