@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PortfolioVisualizer
+comment1.params=port
+comment1.target=void\ visualize(Portfolio)
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=lineChart
+comment3.target=void\ populateData(javafx.scene.chart.LineChart)
+numComments=4
